@@ -7,4 +7,5 @@
   />
   
   <h1>I see the player you mean.</h1>
+  <p align="right"><sub><i>— Julian Gough</i></sub></p>
 </div>

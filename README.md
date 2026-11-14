@@ -6,6 +6,10 @@
     alt="avatar"
   />
   
-  <h1>I see the player you mean.</h1>
-  <p align="right"><sub><i>— Julian Gough</i></sub></p>
+  <div style="display: inline-block; text-align: left;">
+    <h1 style="margin-bottom: 0px; border-bottom: none;">I see the player you mean.</h1>
+    <p style="text-align: right; margin-top: 5px;">
+      <sub><i>— Julian Gough</i></sub>
+    </p>
+  </div>
 </div>

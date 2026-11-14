@@ -6,5 +6,5 @@
     alt="avatar"
     style="border-radius: 50%;"
   />
+  <h1>I see the player you mean.</h1>
 </div>
-# I see the player you mean. 

@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**mitgit1/mitgit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img
+    src="https://avatars.githubusercontent.com/u/165700874?v=4"
+    width="150"
+    height="150"
+    alt="avatar"
+    style="border-radius: 50%;"
+  />
+</div>
+# I see the player you mean. 
